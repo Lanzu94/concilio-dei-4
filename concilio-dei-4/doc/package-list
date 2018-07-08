@@ -1,0 +1,12 @@
+
+client
+client.controller
+client.model
+client.view
+server
+server.controller
+server.model
+server.model.gameComponent
+server.model.gameComponent.cards
+server.model.gameComponent.kingboard
+server.model.gameComponent.map
